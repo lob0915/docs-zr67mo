@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-uoyquy.haybaleman.co.nz/sitemap.xml
